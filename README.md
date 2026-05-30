@@ -5,7 +5,7 @@
 <h1 align="center">🔐 FULL STACK DEVELOPER | 💻 SAP
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Python+Developer;Linux+Power+User;Future+Pentester;CTF+Player;Secure+Code+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Frontend+Backend+Database;Python+Developer"/>
 </p>
 
 
