@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rudra%20Singh&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h1 align="center">🔐 FULL STACK DEVELOPER | 💻 SAP
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Python+Developer;Linux+Power+User;Future+Pentester;CTF+Player;Secure+Code+Builder"/>
+</p>
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on AI & Computer Vision based projects<br><br>👯 I’m looking to collaborate on Open Source, Web Development, and AI projects<br><br>🤝 I’m looking for help with Advanced Machine Learning and System Design<br><br>🌱 I’m currently learning Spring Boot, Data Structures & Algorithms, and Full Stack Development<br><br>💬 Ask me about Java, DSA, Git/GitHub, Computer Vision, and Web Development<br><br>⚡ Fun fact: I enjoy turning innovative ideas into real-world projects and solving coding challenges on LeetCode.
 
